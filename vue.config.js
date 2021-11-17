@@ -1,3 +1,3 @@
-module.export = {
-    publicpath: process.env.NODE_ENV === "production" ? "/vie-riganda/" : "/"
+module.exports = {
+    publicPath: process.env.NODE_ENV === "production" ? "/vue-riganda/" : "/"
 }
